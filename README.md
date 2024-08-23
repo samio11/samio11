@@ -24,11 +24,10 @@ I’m a **passionate web developer** currently pursuing my degree at **American 
 
 ### 🎨 My Creative Corner
 Check out some of my projects:
-- **Project 1**: A [web app](https://your-project-link.com) built with **React** and **Next.js** to solve [specific problem].
-- **Project 2**: An interactive **Node.js** application that does [description of functionality].
-- **Project 3**: [Short description of another project].
+- **Project 1**: A [Share Byte](https://ass-11-food-shearing.web.app) built with **React** and **Next.js**.
+- **Project 2**: An interactive **Node.js** application [Travel Agency](https://assignment-10-turist-sport.web.app/).
+- **Project 3**: Recently I am working on.The link will be public soon.
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
