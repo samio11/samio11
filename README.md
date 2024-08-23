@@ -1,10 +1,10 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Samio Hasan 👋
 
 ![Profile Banner](https://camo.githubusercontent.com/5b1d2e901546f5465aacfb5d19253ae0822909b754dac4b8b2d5632374125c72/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a7a566e574a7479474f585f6b5549446d3663634366512e676966)
 
 ## 🚀 About Me
 
-I’m a **passionate web developer** currently pursuing my degree at **American International University-Bangladesh (AIUB)**. I have a deep love for **building web applications** that solve real-world problems and thrive on exploring **new technologies** to push the boundaries of what's possible on the web. I believe in continuous learning and adapting to the ever-changing tech landscape.
+I’m a **passionate web developer** currently pursuing my degree at **American International University-Bangladesh (AIUB)**. I have a deep love for **building web applications** that solve real-world problems and thrive on exploring **new technologies** to push the boundaries of what's possible on the web. I'm constantly learning and growing as a developer.
 
 ### 💻 What I’m Currently Working On
 - 🌐 Building dynamic and responsive **web applications** using **React** and **Next.js**
@@ -18,7 +18,9 @@ I’m a **passionate web developer** currently pursuing my degree at **American 
 - **Databases**: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle) [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samio%20Hasan-blue?style=flat-square&logo=linkedin)](https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)
+- [![Facebook](https://img.shields.io/badge/Facebook-Samio%20Hasan-blue?style=flat-square&logo=facebook)](https://www.facebook.com/samio.hasan.37)
+- [![Instagram](https://img.shields.io/badge/Instagram-Samio%20Hasan-pink?style=flat-square&logo=instagram)](https://www.instagram.com/samiohasan6/?next=%2F)
 
 ### 🎨 My Creative Corner
 Check out some of my projects:
@@ -26,14 +28,16 @@ Check out some of my projects:
 - **Project 2**: An interactive **Node.js** application that does [description of functionality].
 - **Project 3**: [Short description of another project].
 
-### 📈 GitHub Stats
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak Stats" width="49%" />
-</div>
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=samio11&show_icons=true&theme=radical)
+
+## 📈 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samio11&layout=compact&theme=radical)
 
 ### 🔥 Fun Facts
-- 🖥️ I wrote my first line of code at [age].
+- 🖥️ I wrote my first line of code at 23.
 - 🌍 I love connecting with people from different cultures and backgrounds.
 - 🎮 In my free time, you can find me gaming or working on side projects.
 
