@@ -38,14 +38,12 @@ Check out some of my projects:
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samio11&theme=radical" alt="GitHub Streak" width="48%" />
 
+## 📈 Most Used Languages
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samio11&layout=compact&theme=radical" alt="Top Languages" width="48%" />
   
 </div>
 
-
-## 📈 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samio11&layout=compact&theme=radical)
 
 ### 🔥 Fun Facts
 - 🖥️ I wrote my first line of code at 18.
