@@ -30,14 +30,25 @@ Check out some of my projects:
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=samio11&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=samio11&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samio11&theme=radical" alt="GitHub Streak" width="48%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samio11&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  
+</div>
+
 
 ## 📈 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samio11&layout=compact&theme=radical)
 
 ### 🔥 Fun Facts
-- 🖥️ I wrote my first line of code at 23.
+- 🖥️ I wrote my first line of code at 18.
 - 🌍 I love connecting with people from different cultures and backgrounds.
 - 🎮 In my free time, you can find me gaming or working on side projects.
 
