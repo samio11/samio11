@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate web developer and a student at th
 ## 🛠️ Skills & Technologies
 
 - **Languages:** HTML, CSS, JavaScript
-- **Libraries & Frameworks:** React.js, Tailwind CSS, DaisyUI
+- **Libraries & Frameworks:** React.js, Tailwind CSS, DaisyUI(All UI Framework),Axios,JWT and Many more Libraries
 - **Databases:** MongoDB
 - **Authentication & Hosting:** Firebase
 
