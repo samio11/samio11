@@ -18,7 +18,7 @@ I’m a **passionate web developer** currently pursuing my degree at **American 
 - **Databases**: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### 🔗 Connect with Me
-- [![LinkedIn](https://www.linkedin.com/in/samio-hasan-211324331/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samio%20Hasan-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/samio-hasan-211324331/)
 - [![Facebook](https://img.shields.io/badge/Facebook-Samio%20Hasan-blue?style=flat-square&logo=facebook)](https://www.facebook.com/samio.hasan.37)
 - [![Instagram](https://img.shields.io/badge/Instagram-Samio%20Hasan-pink?style=flat-square&logo=instagram)](https://www.instagram.com/samiohasan6/?next=%2F)
 
