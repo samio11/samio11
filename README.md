@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Samio Hasan 👋</h1>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6bbcb885-d849-4e11-b41f-98a08f0e341e" alt="Coding Banner" />
-</p>
+
+![s1](https://github.com/user-attachments/assets/a43ecbd4-070a-448b-a1de-34804e2bd58c)
 
 ---
 
