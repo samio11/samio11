@@ -1,137 +1,365 @@
-<h1 align="center">Hello World! 👋 I'm Samio Hasan</h1>
-<h3 align="center">Full-Stack Developer & Computer Science Student</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://samio-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Site-00a8e8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/samio-hasan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+# 👨‍💻 Samio Hasan
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a43ecbd4-070a-448b-a1de-34804e2bd58c" alt="Banner" width="100%" />
-</p>
+### Full-Stack Developer | MERN Specialist | Problem Solver
 
----
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View_Live-00a8e8?style=for-the-badge)](https://samio-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samio-hasan)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samiohasan6@gmail.com)
 
-## 🚀 About Me
+<img src="https://github.com/user-attachments/assets/a43ecbd4-070a-448b-a1de-34804e2bd58c" alt="Banner" width="100%" />
 
-I'm a passionate **Computer Science student** at **American International University-Bangladesh (AIUB)** with expertise in full-stack web development. I thrive on transforming complex problems into elegant, efficient solutions through clean code and innovative thinking.
+</div>
 
-- 🔭 **Currently working on:** Advanced MERN stack applications with Next.js
-- 🌱 **Learning:** Docker containerization, AWS cloud services, and GraphQL
-- 👯 **Looking to collaborate on:** Open-source projects and innovative web applications
-- 💬 **Ask me about:** React, Node.js, MongoDB, or problem-solving strategies
-- ⚡ **Fun fact:** I wrote my first line of code at 18 and haven't stopped since!
+## 🎯 About Me
 
----
+Computer Science student at **American International University-Bangladesh (AIUB)** with a passion for crafting scalable web applications. I specialize in transforming complex business requirements into elegant, user-centric solutions using modern technologies.
 
-## 🛠️ Technical Proficiency
+```typescript
+const samio = {
+    location: "Khulna, Bangladesh",
+    education: "BSc in Computer Science @ AIUB",
+    currentFocus: ["Next.js 14", "Docker", "AWS", "GraphQL"],
+    interests: ["Open Source", "Cloud Architecture", "API Design"],
+    funFact: "Turned curiosity into code at 18, building ever since! 🚀"
+};
+```
 
-### Programming Languages
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<details>
+<summary>📌 What I'm Up To</summary>
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- 🔭 Building production-ready MERN applications with Next.js 14
+- 🌱 Deepening expertise in containerization and cloud infrastructure
+- 👯 Open to collaborating on impactful open-source projects
+- 💬 Happy to discuss React patterns, Node.js architecture, or MongoDB optimization
+- 🎯 2025 Goal: Contribute to major open-source projects and master microservices
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### Databases & ORMs
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-
-### DevOps & Cloud Services
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+</details>
 
 ---
 
-## 📈 GitHub Analytics
+## 💻 Technology Stack
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=samio11&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Samio's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samio11&layout=compact&theme=radical&hide_border=true" alt="Samio's Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=samio11&theme=radical&hide_border=true" alt="Samio's Contribution Streak" />
-</p>
+### 🎯 Core Expertise
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<br>Express
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br>Tailwind
+</td>
+</tr>
+</table>
+
+### 🌐 Frontend Development
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br>Tailwind
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+<br>Vite
+</td>
+</tr>
+</table>
+
+### ⚙️ Backend Development
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<br>Express
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+<br>C#
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET" />
+<br>ASP.NET
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+<br>PHP
+</td>
+</tr>
+</table>
+
+### 🗄️ Databases & ORMs
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
+<br>Prisma
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+<br>Firebase
+</td>
+</tr>
+</table>
+
+### 🚀 DevOps & Cloud
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+<br>Vercel
+</td>
+</tr>
+</table>
+
+### 📚 Programming Languages
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+<br>C
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<br>C++
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+<br>C#
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🏆 Featured Projects
+## 📊 GitHub Analytics
 
-### 🌍 Share Byte - Food Sharing Platform
-A community-driven platform for sharing excess food to reduce waste and help those in need.
+<div align="center">
 
-**Tech Stack:** React, Next.js, Firebase, Tailwind CSS  
-**Live Demo:** [https://ass-11-food-shearing.web.app](https://ass-11-food-shearing.web.app)
+<table>
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samio11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" />
+</td>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samio11&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+</td>
+</tr>
+</table>
 
-### ✈️ Travel Agency - Tour Booking Platform
-A comprehensive tour booking system with user authentication and admin management panel.
+<table>
+<tr>
+<td width="100%" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samio11&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideLabels=8B949E" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
 
-**Tech Stack:** Node.js, Express, MongoDB, React  
-**Live Demo:** [https://assignment-10-turist-sport.web.app](https://assignment-10-turist-sport.web.app)
+<table>
+<tr>
+<td align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samio11&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" alt="Contribution Graph" />
+</td>
+</tr>
+</table>
 
-### 🚀 Upcoming Project - MERN Stack Application
-A full-stack application currently in development with advanced features and modern architecture.
+### 🏆 GitHub Trophies
 
-**Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js)
+<img src="https://github-profile-trophy.vercel.app/?username=samio11&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/samio-hasan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/samio.hasan.37" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/samiohasan6" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://samio-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00a8e8?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:samiohasan6@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-## ⚡ Recent Achievements
+## 🏗️ Featured Projects
 
-- 🏆 Successfully deployed multiple full-stack applications with responsive designs
-- 📈 Consistently improving problem-solving skills on platforms like LeetCode
-- 🔧 Developed expertise in both relational and non-relational databases
-- 🎯 Mastering modern development workflows with Git and DevOps practices
+<table>
+<tr>
+<td width="50%">
+
+### 🍲 Share Byte
+**Food Sharing Community Platform**
+
+A sustainable solution connecting food donors with those in need, reducing waste while building community.
+
+**Stack:** React • Next.js • Firebase • Tailwind CSS
+
+**Features:**
+- Real-time food availability tracking
+- Secure authentication system
+- Responsive design for all devices
+- Community engagement tools
+
+**[Live Demo →](https://ass-11-food-shearing.web.app)**
+
+</td>
+<td width="50%">
+
+### ✈️ Travel Agency Platform
+**Complete Tour Booking System**
+
+Full-featured travel booking platform with admin panel for seamless tour management.
+
+**Stack:** Node.js • Express • MongoDB • React
+
+**Features:**
+- User authentication & authorization
+- Tour package management
+- Booking & payment integration
+- Admin dashboard
+
+**[Live Demo →](https://assignment-10-turist-sport.web.app)**
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🚧 Currently Building
+
+**Enterprise-Grade MERN Application**  
+Advanced full-stack solution with modern architecture patterns, API design, and scalable infrastructure.
+
+`MongoDB • Express.js • React • Node.js • TypeScript • Docker`
+
+</div>
 
 ---
 
+## 🎓 Professional Development
+
+<div align="center">
+
+| Area | Status | Focus |
+|------|--------|-------|
+| 🎯 **Current Learning** | 🟢 Active | Docker, AWS, GraphQL |
+| 💡 **Next Focus** | 🟡 Planned | Microservices, Kubernetes |
+| 📈 **Problem Solving** | 🟢 Active | LeetCode, Algorithm Practice |
+| 🌐 **Open Source** | 🟡 Exploring | Contribution Opportunities |
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+I'm always excited to connect with fellow developers, collaborate on innovative projects, or discuss tech over coffee ☕
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samio-hasan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-00a8e8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://samio-portfolio.vercel.app)
+[![Facebook](https://img.shields.io/badge/Facebook-Social-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/samio.hasan.37)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/samiohasan6)
+[![Email](https://img.shields.io/badge/Gmail-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samiohasan6@gmail.com)
+
+### 💼 Open to Opportunities
+
+🔹 Full-Stack Development Roles  
+🔹 Freelance Projects  
+🔹 Open Source Collaboration  
+🔹 Technical Consulting
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=samio11&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+**"Code is like humor. When you have to explain it, it's bad." – Cory House**
+
+⭐️ From [samio11](https://github.com/samio11) with 💙
+
+</div>
