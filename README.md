@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer | MERN Specialist | Problem Solver
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View_Live-00a8e8?style=for-the-badge)](https://samio-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View_Live-00a8e8?style=for-the-badge)](https://samio-portfolio-2.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samio-hasan)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samiohasan6@gmail.com)
 
