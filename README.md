@@ -4,9 +4,26 @@
 
 ### Full-Stack Developer | MERN Specialist | Problem Solver
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-View_Live-00a8e8?style=for-the-badge)](https://samio-portfolio-2.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/samio-hasan)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samiohasan6@gmail.com)
+<br/>
+
+<!-- 🎵 Click to listen while you explore -->
+<a href="https://github.com/user-attachments/files/26662839/Zero-Sleep.Future.mp3">
+  <img src="https://img.shields.io/badge/▶%20Now%20Playing-Zero--Sleep%20Future-00e5ff?style=for-the-badge&logo=musicbrainz&logoColor=white&labelColor=0D1117" alt="Now Playing: Zero-Sleep Future"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://samio-portfolio-2.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-View%20Live-00e5ff?style=for-the-badge&labelColor=0D1117" alt="Portfolio"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/samio-hasan">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:samiohasan6@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
+</a>
+
+<br/><br/>
 
 <img src="https://github.com/user-attachments/assets/a43ecbd4-070a-448b-a1de-34804e2bd58c" alt="Banner" width="100%" />
 
